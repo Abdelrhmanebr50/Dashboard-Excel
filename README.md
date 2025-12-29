@@ -1,12 +1,13 @@
-# Call Center Performance Dashboard
+# Call Center Data Analysis Dashboard
 
-## Project Overview
-This dashboard provides a comprehensive analysis of Call Center data to track KPIs like average handling time and agent performance.
+## Project Preview
+![Dashboard Screenshot](./Screenshot%202025-12-29%20165130.png)
 
-## Dashboard Preview
-![Dashboard Preview](Screenshot 2025-12-29 165130.png)
+## Description
+Interactive Excel dashboard created to analyze Call Center performance and key metrics.
 
-## Technical Skills Used
-* Data Cleaning using Power Query.
-* Interactive Dashboards using Slicers and Pivot Charts.
-* Advanced Excel Formulas.
+## Tools & Skills
+* **Excel Functions:** (VLOOKUP, IF statements, etc.)
+* **Pivot Tables & Charts:** For data summarization.
+* **Slicers:** For interactive filtering.
+* **Data Visualization:** Designing professional charts.
